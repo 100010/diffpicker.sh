@@ -4,6 +4,8 @@ Make faster to copy file with difference :dash:
 ## Description
 you can copy file with difference in git with no mouse, or trackpad.
 
+[![Image from Gyazo](https://i.gyazo.com/86f2c4d5165af83e330650cc38fd2cfa.gif)](https://gyazo.com/86f2c4d5165af83e330650cc38fd2cfa)
+
 ## Development
 
 After checking out the repo, run `bin/setup` to install dependencies. Then, run `rake spec` to run the tests. You can also run `bin/console` for an interactive prompt that will allow you to experiment.
