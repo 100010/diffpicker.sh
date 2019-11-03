@@ -1,7 +1,7 @@
 #!/bin/bash
 
 echo "Please select a file"
-options=($(git diff --name-only))
+options=($(git diff --name-only) $(git ls-files . --exclude-standard --others))
 
 select opt in "${options[@]}" "Quit";
 do
